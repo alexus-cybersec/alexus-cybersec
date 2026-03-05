@@ -1,6 +1,4 @@
-# Hi, I'm Alexus
-
-# Welcome to my GitHub 👋
+# Hi, I'm Alexus, Welcome to my GitHub 👋
 
 Security+ certified cybersecurity professional building hands-on detection engineering and SIEM labs.
 
